@@ -2,12 +2,12 @@
 
 # Criada para praticar o cond
 defmodule CheckForFactor do
-    def check_for_factor(base, factor) do
-        cond do
-            rem(base, factor) == 0 -> :true
-            rem(base, factor) != 0 -> :false
-        end
+  def check_for_factor(base, factor) do
+    cond do
+      rem(base, factor) == 0 -> true
+      rem(base, factor) != 0 -> false
     end
+  end
 end
 
 # Otimização
