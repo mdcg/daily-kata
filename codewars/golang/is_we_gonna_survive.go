@@ -1,4 +1,4 @@
-package kata2
+package kata59ca8246d751df55cc00014c
 
 // Kata: https://www.codewars.com/kata/59ca8246d751df55cc00014c
 
